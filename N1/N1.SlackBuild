@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# Slackware build script for Google Chrome
+# Slackware build script for N1 Mail Client 
 
-# Copyright 2009-2010  Erik Hanson, Minneapolis, MN, USA
+# Copyright 2015 - 2016  Neeraj Rajesh, Mount Pleasant, MI, USA
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
